@@ -1,5 +1,3 @@
-var fs = require('fs');
-var path = require('path');
 var five = require("johnny-five");
 var Edison = require("edison-io");
 
